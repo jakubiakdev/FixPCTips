@@ -10,7 +10,11 @@ For quite some time i developed my own knowladge base of common, easy fixes for 
 
 ## How can I explore this wiki?
 
-On the left you should see a list of all the pages, just search for a OS, and the problem you might have.
+You can use gitbooks: [https://jakubiakdev.gitbook.io/fixpctips/](https://jakubiakdev.gitbook.io/fixpctips/)
+
+Or browse directly from [github](https://github.com/jakubiakdev/FixPCTips)
+
+
 
 ## Where did you found those tips?
 
