@@ -1,6 +1,8 @@
 # Built-in anydesk style troubleshooter in Windows \(Quick Assist\)
 
-Fun fact: Windows has a build in assistance tool that works similar to anydesk or teamviewer!  
+Fun fact: Windows has a build in assistance tool that works similar to anydesk or teamviewer!
+
+Easiest way to acces it is by pressing WIN+R on keyboard \(run menu should pop up\) and type in quickassist.exe, this launches the program without the need to search for it.  
 
 
 Original Microsoft knowladgebase: [https://support.microsoft.com/en-us/windows/solve-pc-problems-over-a-remote-connection-b077e31a-16f4-2529-1a47-21f6a9040bf3](https://support.microsoft.com/en-us/windows/solve-pc-problems-over-a-remote-connection-b077e31a-16f4-2529-1a47-21f6a9040bf3)  
