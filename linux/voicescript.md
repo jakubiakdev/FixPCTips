@@ -1,6 +1,6 @@
 # Destroy\_your\_mic\_quality.sh
 
-Problem: You want to worsen your microphone quality, for these times that you really don't want to answer the question on online classes. Well, this scirpt might be just for you! This script depends on `pactl`.
+Problem: You want to worsen your microphone quality, for these times that you really don't want to answer the question on online classes. Well, this script might be just for you! This script depends on `pactl`.
 
 The actual script
 
@@ -17,7 +17,7 @@ done
 
 ## Notes
 
-To use this scirpt you might need to change the input device from`alsa_input.pci-0000_08_00.4.analog-stereo` To your own device from `pactl list short sources`
+To use this script you might need to change the input device from`alsa_input.pci-0000_08_00.4.analog-stereo` To your own device from `pactl list short sources`
 
 
 
