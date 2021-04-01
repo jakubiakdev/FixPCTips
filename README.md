@@ -26,7 +26,7 @@ It was 2-3 years of helping my family and close friends and hours wasted searchi
 2. It's kind of a challenge
 3. Most of technical terms I only know the English naming, and trying to translate it into polish would be a mess
 
-## Why the page on gitbooks contain Google Analytics?
+## Why does the page on gitbooks contain Google Analytics?
 
 Answer is simple: Analytics
 
